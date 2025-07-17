@@ -1,0 +1,31 @@
+.h2{
+    text-decoration: underline;
+    text-align: center;
+    color:rgb(41, 149, 238);
+}
+#fullname{
+    font-size: large ;
+    background-color: rgb(235, 225, 225);
+}
+#phno{
+    font-size: large;
+    color: aqua;
+    background-color: rgb(245, 247, 242);
+}
+#email{
+    font-size: large;
+    background-color: rgb(236, 236, 241);
+}
+#button{
+   
+    font-size: x-large;
+    background-color: rgb(31, 211, 91);
+   
+   
+}
+body{
+    font-size: large;
+    background-image:url("12.jpg");
+    background-size: cover;
+   
+}
