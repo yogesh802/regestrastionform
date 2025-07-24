@@ -1,0 +1,51 @@
+
+        h1{
+            color: rgb(10, 10, 10);
+            font-size: 40px;
+        }
+        p{
+            color: rgb(17, 18, 18);
+            font-size: 25px;
+        }
+        p1{
+            color: black;
+            font-size: 30px;
+        }
+        p2{
+            color: rgb(21, 21, 21);
+            font-size: 30px;
+        }
+        h2{
+            color: rgb(14, 14, 14);
+        }
+        h3{
+            color: rgb(10, 10, 10);
+            font-size: 30px;
+        }
+        h4{
+            color: rgb(21, 20, 20);
+            font-size: 30px;
+        }
+        h5{
+            color: rgb(14, 14, 14);
+            font-size: 30px;
+            
+        }
+        body{
+            background-color: rgb(225, 180, 180);
+            
+        }
+
+  
+    table, th, td {
+  border: 1px solid rgb(75, 193, 239);
+  font-size: 20px;
+  width: 50%;
+  color: chocolate;
+  
+    }
+    img{
+        border-radius: 100%;
+        background-color: black;
+    }
+    
