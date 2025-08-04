@@ -1,0 +1,9 @@
+body{
+   background-color: lightsalmon;
+   
+}
+
+.hidden{
+    display: none;
+    color: #FF2c2c;
+}
